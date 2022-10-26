@@ -6,6 +6,14 @@ public class Carrinho {
 	Produto produto;
 	ArrayList<Produto> shoppingbag;
 	
+	
+	
+	
+	
+	
+	
+	Int a == 20
+	
 	Carrinho(Produto produto){
 		shoppingbag = new ArrayList<Produto>();
 		this.produto = produto;
