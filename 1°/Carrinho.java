@@ -5,14 +5,7 @@ import java.util.ArrayList;
 public class Carrinho {
 	Produto produto;
 	ArrayList<Produto> shoppingbag;
-	
-	
-	
-	
-	
-	
-	
-	Int a == 20
+
 	
 	Carrinho(Produto produto){
 		shoppingbag = new ArrayList<Produto>();
